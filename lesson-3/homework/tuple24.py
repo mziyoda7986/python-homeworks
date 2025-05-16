@@ -1,0 +1,5 @@
+t = (11, 2, 45, 12, 2, 4, 1, 3, 2, 45)
+l = list(t)
+l.reverse()
+t1 = tuple(l)
+print(bool(t == t1))
