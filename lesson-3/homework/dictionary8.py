@@ -1,2 +1,0 @@
-d = {}
-print(type(d))

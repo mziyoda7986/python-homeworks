@@ -1,5 +1,0 @@
-t = (11, 2, 45, 12, 2, 4, 1, 3, 2, 45)
-l = list(t)
-l.reverse()
-t = tuple(l)
-print(t)
